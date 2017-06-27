@@ -3,9 +3,9 @@
   "name": "DemoFly",
   "short_name": "DemoFly",
   "description": "A chrome extension to build and check demo on fly for eCommerce/ERP modules/addons, developed by Webkullians(Webkul Store Link: https://store.webkul.com)
-An addition to it, you can also build demo for FREE ODOO Addons, placed on ODOO Store(https://www.odoo.com/apps)",
+An addition to it, you can also build demo for PrestaShop Addons, placed on PrestaShop Store https://store.webkul.com/PrestaShop-Extensions.html",
   "version": "0.1.4",
-  "author": "Mohit Chandra(mohit@webkul.com)",
+  "author": "Dheeraj Sharma(dheeraj@webkul.com)",
   "homepage_url": "https://webkul.com",
   "icons": {
     "16": "./img/16x16.png",
